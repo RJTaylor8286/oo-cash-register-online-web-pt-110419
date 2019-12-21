@@ -3,6 +3,7 @@ class CashRegister
   (:cash_register_with_discount) { CashRegister.new(20) }
 end
 
+<<<<<<< HEAD
 def cash_register  
   cash_register.new(:@total)
   cash_register.new = 0 
@@ -47,3 +48,6 @@ cash_register.add_item("Lucky Charms", 4.5)
       
       
       
+=======
+CashRegister.do 
+>>>>>>> b7c142c5a78d04d5f7ae5d23e85b7cf8703f3469
